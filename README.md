@@ -33,6 +33,12 @@ Internet connection test from PC4:
 
 ### MikroTik
 
-![]()
+![Internet Connection (MikroTik).png](https://github.com/eightball270/Cisco-and-MikroTik-Internet-Connection/blob/main/MikroTik/Internet%20Connection%20(MikroTik).png)
 
-[]() (extract file first)
+[Project File Link](https://github.com/eightball270/Cisco-and-MikroTik-Internet-Connection/blob/main/MikroTik/Internet%20Connection%20(MikroTik).gns3project.7z) (extract the file first)
+
+Internet connection test from PC1:
+![Internet Connection (MikroTik) (1).png](https://github.com/eightball270/Cisco-and-MikroTik-Internet-Connection/blob/main/MikroTik/Internet%20Connection%20(MikroTik)%20(1).png) ![Internet Connection (MikroTik) (2).png](https://github.com/eightball270/Cisco-and-MikroTik-Internet-Connection/blob/main/MikroTik/Internet%20Connection%20(MikroTik)%20(2).png)
+
+Internet connection test from PC3:
+![Internet Connection (MikroTik) (3).png](https://github.com/eightball270/Cisco-and-MikroTik-Internet-Connection/blob/main/MikroTik/Internet%20Connection%20(MikroTik)%20(3).png) ![Internet Connection (MikroTik) (4).png](https://github.com/eightball270/Cisco-and-MikroTik-Internet-Connection/blob/main/MikroTik/Internet%20Connection%20(MikroTik)%20(4).png)
