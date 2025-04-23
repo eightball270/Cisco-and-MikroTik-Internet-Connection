@@ -18,6 +18,7 @@ This simulation demonstrates how to configure a router to connect to an ISP (Int
 ## Internet Connection
 
 ### Cisco
+To allow certain clients internet access, the Cisco configuration uses the Access Control List (ACL) method. The purpose of an ACL is to filter traffic based on the source address, destination address, port, and protocol. In this configuration, internet access is granted to all clients based on their network address.
 
 ![Internet Connection (Cisco).png](https://github.com/eightball270/Cisco-and-MikroTik-Internet-Connection/blob/main/Cisco/Internet%20Connection%20(Cisco).png)
 
@@ -34,6 +35,7 @@ Internet connection test from PC4:
 ![Internet Connection (Cisco) (4).png](https://github.com/eightball270/Cisco-and-MikroTik-Internet-Connection/blob/main/Cisco/Internet%20Connection%20(Cisco)%20(4).png)
 
 ### MikroTik
+In the MikroTik configuration, a firewall NAT rule is created to filter traffic, functioning similarly to an ACL in Cisco.
 
 ![Internet Connection (MikroTik).png](https://github.com/eightball270/Cisco-and-MikroTik-Internet-Connection/blob/main/MikroTik/Internet%20Connection%20(MikroTik).png)
 
