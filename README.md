@@ -35,7 +35,7 @@ Internet connection test from PC4:
 ![Internet Connection (Cisco) (4).png](https://github.com/eightball270/Cisco-and-MikroTik-Internet-Connection/blob/main/Cisco/Internet%20Connection%20(Cisco)%20(4).png)
 
 ### MikroTik
-In the MikroTik configuration, a firewall NAT rule is created to filter traffic, functioning similarly to an ACL in Cisco.
+In the MikroTik configuration, the firewall NAT rule not only functions as port forwarding but also serves as a traffic filter, similar to the ACL function on Cisco, to enable internet connectivity.
 
 ![Internet Connection (MikroTik).png](https://github.com/eightball270/Cisco-and-MikroTik-Internet-Connection/blob/main/MikroTik/Internet%20Connection%20(MikroTik).png)
 
