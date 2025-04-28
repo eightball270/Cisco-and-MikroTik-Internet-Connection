@@ -39,7 +39,7 @@ In the MikroTik configuration, the firewall NAT rule not only functions as port 
 
 ![Internet Connection (MikroTik).png](https://github.com/eightball270/Cisco-and-MikroTik-Internet-Connection/blob/main/MikroTik/Internet%20Connection%20(MikroTik).png)
 
-[Project File Link](https://github.com/eightball270/Cisco-and-MikroTik-Internet-Connection/blob/main/MikroTik/Internet%20Connection%20(MikroTik).gns3project.7z) (extract the file first)
+[Project File Link](https://github.com/eightball270/Cisco-and-MikroTik-Internet-Connection/blob/main/MikroTik/Internet%20Connection%20(MikroTik).gns3project.rar) (extract the file first)
 
 Internet connection test from PC1:
 
