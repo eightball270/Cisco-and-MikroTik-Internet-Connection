@@ -9,7 +9,7 @@ This simulation demonstrates how to configure a router to connect to an ISP (Int
 2. Client PCs
 3. NAT cloud as ISP
 
-## Configuration Completed
+## Configuration Done
 1. VLANs on router and switch
 2. DHCP client on the router interface that connects to the ISP
 3. NAT configuration on the router
