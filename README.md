@@ -1,10 +1,10 @@
 # Cisco and MikroTik Internet Connection
 This simulation demonstrates how to configure a router to connect to an ISP (Internet Service Provider) so that some clients can access the internet. In this simulation, the host (the actual user's PC connected to the internet) acts as the ISP.
 
-## Technology Used
+## Simulator Used
 - GNS3
 
-## Requirements
+## Requirement Nodes
 1. A router and a switch
 2. Client PCs
 3. NAT cloud as ISP
